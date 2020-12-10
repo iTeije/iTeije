@@ -1,8 +1,5 @@
 ## Hi y'all.
-I'm a Dutch software developer who pretty much only has private repositories. 
+I'm a software developer spending his free time on random projects.
 
-Software is life. Period.
-
-![iTeije's Github stats](https://github-readme-stats.vercel.app/api?username=iTeije&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iTeije&layout=compact)
+### I'm not quite sure whether I should be proud or ashamed of my current streak
+![Cool stats](https://github-readme-streak-stats.herokuapp.com/?user=iTeije&theme=dark)
